@@ -17,5 +17,6 @@ This will get a random image from unsplash and make it your desktop image.
 
 - [ ] Step three: implement deep learning(Neural networks) into the system ETA: 2021.7.15
 
-- [ ] Step four: implement convolutional neural networks and more advanced ML algorithms ETA: 2020.8.1
+- [ ] Step four: implement convolutional neural networks and more advanced ML algorithms ETA: 2021.8.1
+- [ ] Step five: Release a GUI with multiplatform support ETA: 2021.8.15
 
