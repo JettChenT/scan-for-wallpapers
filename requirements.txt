@@ -1,2 +1,5 @@
 typer==0.3.2
 requests==2.25.1
+numpy~=1.20.2
+pillow~=8.2.0
+appscript~=1.1.2
